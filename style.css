@@ -1,0 +1,40 @@
+h1 {
+    color: #f6193a;
+    border-top: 2px solid #b86b77;
+    border-bottom: 2px solid #b86b77;
+}
+
+h2 {
+    color: rgb(73, 0, 29)
+}
+
+body {
+    background-color: #ffedf1;
+}
+
+#mainTitle {
+    text-align: center;
+    font-size: 90px;
+}
+
+#filmesFavoritos {
+   
+    font-size: 40px;
+}
+
+#examples {
+    text-align: center;
+
+}
+
+h3 {
+    font-size: 25px;
+}
+
+#hobbies {
+    font-size: 40px;
+}
+
+#subHobbies {
+    font-size: 25px;
+}
